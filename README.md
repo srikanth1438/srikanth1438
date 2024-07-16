@@ -48,3 +48,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    OUTPUT:
+    Enter the city name or coordinates (lat,lon): chennai
+Temperature: 31.36°C
+Weather Conditions: light intensity drizzle
+Humidity: 73%
+Wind Speed: 5.81 m/s
